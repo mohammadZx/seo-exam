@@ -1,0 +1,16 @@
+{
+  "name": "seo-exam",
+  "version": "1.0.0",
+  "description": "<h1>پاسخ سوالات زیر قبل از مصاحبه سئو به عنوان یک فایل ورد به جیمیل زیر ارسال شود </h1> <p>پاسخ به تمامی سوالات اجباری نیست</p> <p><a href=\"mailto:mohammad13yazdani@gmail.com\">mohammad13yazdani@gmail.com</a></p> <hr> <p>1- مشکلات سئویی سایت زیر رو به صورت کامل همراه با ذکر دلیل اینکه چرا روی سئو تاثیر گذار هستش به من اطلاع دهید. (مشکلاتی از قبیل سرعت سایت و لینک ها و…) همچنین توضیح داده بشه که از چه ابزار هایی برای سنجش این مشکلات استفاده شده است. </p> <p>نام سایت: https://autosafkar.com/</p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tailwind": "npx tailwindcss -i ./src/input.css -o ./src/output.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tailwind": "^4.0.0"
+  }
+}
